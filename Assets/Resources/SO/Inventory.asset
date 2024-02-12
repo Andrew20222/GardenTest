@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 980548e4d8994f309908c38abc734ff7, type: 3}
+  m_Name: Inventory
+  m_EditorClassIdentifier: 
+  <Cases>k__BackingField:
+  - <Name>k__BackingField: "\u043F\u0430\u0442\u0440\u043E\u043D\u044B 9\u044518\u043C\u043C"
+    <ID>k__BackingField: 1
+    <Type>k__BackingField: 3
+    <IsUsed>k__BackingField: 0
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 48d12de3d6a5c20428bf6a22f216562b, type: 3}
+    <Count>k__BackingField: 22
+    <Weigth>k__BackingField: 23.8
+    <Apply>k__BackingField: 24
+  - <Name>k__BackingField: "\u043F\u0430\u0442\u0440\u043E\u043D\u044B 5.45\u044539"
+    <ID>k__BackingField: 2
+    <Type>k__BackingField: 3
+    <IsUsed>k__BackingField: 0
+    <Sprite>k__BackingField: {fileID: -965516588, guid: d646feb6b5df5bd49a82a27c284d2187, type: 3}
+    <Count>k__BackingField: 4
+    <Weigth>k__BackingField: 0.03
+    <Apply>k__BackingField: 0
+  - <Name>k__BackingField: Helmet
+    <ID>k__BackingField: 2
+    <Type>k__BackingField: 2
+    <IsUsed>k__BackingField: 1
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 3b1de78d67983784795745a13aef6963, type: 3}
+    <Count>k__BackingField: 18
+    <Weigth>k__BackingField: 1
+    <Apply>k__BackingField: 10
+  - <Name>k__BackingField: Jacket
+    <ID>k__BackingField: 2
+    <Type>k__BackingField: 1
+    <IsUsed>k__BackingField: 0
+    <Sprite>k__BackingField: {fileID: 21300000, guid: b792967d604dafe4c87963b33d64320e, type: 3}
+    <Count>k__BackingField: 22
+    <Weigth>k__BackingField: 1
+    <Apply>k__BackingField: 3
+  - <Name>k__BackingField: Medicine
+    <ID>k__BackingField: 1
+    <Type>k__BackingField: 4
+    <IsUsed>k__BackingField: 0
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 57e53c8c46c62c84caecebe12754d6e9, type: 3}
+    <Count>k__BackingField: 26
+    <Weigth>k__BackingField: 1
+    <Apply>k__BackingField: 20
+  - <Name>k__BackingField: Armor
+    <ID>k__BackingField: 4
+    <Type>k__BackingField: 1
+    <IsUsed>k__BackingField: 1
+    <Sprite>k__BackingField: {fileID: 21300000, guid: 8a314fe6545c372459ce0e582b976635, type: 3}
+    <Count>k__BackingField: 21
+    <Weigth>k__BackingField: 1
+    <Apply>k__BackingField: 20
